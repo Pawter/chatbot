@@ -1,0 +1,2 @@
+Before running program, run: "npm install" and change config files.
+After just need to run "node index.js"
